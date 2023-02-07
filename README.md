@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flexzy2011
+- 👋 Hi, I’m Felix Akinloye
  Gomycode alumnus for Introduction to web development. 
 - 👀 I’m interested in working as a front end developer 
 - 🌱React.js 
