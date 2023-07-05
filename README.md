@@ -1,5 +1,5 @@
 - 👋 Hi, My is Felix Akinloye, I am a Frontend Developer...
- Gomycode alumnus for Introduction to web development and React.js
+ Gomycode alumnus🎖️🎖️
 - 👀 I’m interested in obtaining a frontend developer role in a dynamic and innovative organization where i can utilize my technical and creative skills to develop and maintain responsive, user-friendly and visually appealing websites. 
 - 🌱React.js
 - 💞️ I’m looking forward to collaborate with people on Web Development Projects.
