@@ -4,7 +4,7 @@
   
 - 💞️ I’m looking forward to collaborate with people on Web Development Projects.
 - 📫 How to reach me ... felixakinloye247@gmail.com/ www.linkedin.com/in/felix-akinloye
-Portfolio: https://felix-akinloye.netlify.app/ Thank you 🙏🏾 😊
+   Thank you 🙏🏾 😊
 <!---
 flexzy2011/flexzy2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
